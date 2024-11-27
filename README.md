@@ -11,8 +11,8 @@
 
 ### Technical Skills
 - 🖥️ Programming Languages: C/C++, Java, Python, HTML, CSS, JavaScript, TypeScript, SQL
-- 🧰 Frameworks and Libraries: Node, Vue, Spring Boot, Flask, Django, OpenCV
-- 📈 Library: PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib
+- 🧰 Frameworks: Node, Vue, Spring Boot, Flask, Django
+- 📈 Library: PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, OpenCV
 - ⚙️ Development Tools: Git, CMake, Makefile, Docker, Shell, Bash, LaTeX
 
 ### My GitHub Activities
